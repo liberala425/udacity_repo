@@ -6,3 +6,5 @@ This is a repository to gain familiarity with git and Github.
 * git add
 * git commit - m
 * git push
+* git branch: shows all branches available now. Branch name with '*' before it is the current branch 
+* git checkout -b <branch_name>: creates a branch as well as moves you onto it
